@@ -18,3 +18,23 @@
 ===================================================
 
 اگر هدفت هوشمندسازی و ایجاد کارگذار هوشمند (Agent) بر پایه‌ی کامپیوتره، پیشنهاد می‌کنم با AI Starter Kit شروع کنی — خیلی قدرتمنده و نیازی به تنظیماتِ پیچیده نداره.
+
+---
+
+جایگزین رایگان و حرفه ای برای n8n
+
+https://www.make.com/en
+
+#n8n
+#make
+#AI
+#Automation
+
+کانال آموزش شبکه
+📱 https://www.instagram.com/network.train
+
+📱 https://t.me/nettrain ✔️🔄
+
+📱 https://www.amireducation.com
+
+---
